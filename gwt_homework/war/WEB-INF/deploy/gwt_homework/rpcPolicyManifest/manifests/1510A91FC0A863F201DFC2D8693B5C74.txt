@@ -1,0 +1,2 @@
+serviceClass: gwt_homework.client.GreetingService
+path: B5EBE7B16646A97A272BB4F471039599.gwt.rpc

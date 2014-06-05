@@ -1,0 +1,3 @@
+# Module gwt_homework
+# RPC service class, partial path of RPC policy file
+gwt_homework.client.GreetingService, B5EBE7B16646A97A272BB4F471039599.gwt.rpc
